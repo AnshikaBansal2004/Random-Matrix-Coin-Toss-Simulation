@@ -35,6 +35,7 @@ The script performs the following steps:
 6. **Overall Probability Calculation**: Computes the overall probability of heads and tails across all iterations.
 
 ## Example Output
+<pre></pre>
 Iteration 1:
 Original Matrix:
 [[ 8 3 7]
@@ -52,6 +53,6 @@ Probability of getting tail = 0.4444444444444444
 
 Overall Probability of getting H (all events combined) = 0.4888888888888889
 Overall Probability of getting T (all events combined) = 0.5111111111111111
-
+</pre>
 <b>Contributions are welcome! Please feel free to submit a Pull Request.</b> 
 
