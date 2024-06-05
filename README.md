@@ -35,7 +35,7 @@ The script performs the following steps:
 6. **Overall Probability Calculation**: Computes the overall probability of heads and tails across all iterations.
 
 ## Example Output
-<pre></pre>
+<pre>
 Iteration 1:
 Original Matrix:
 [[ 8 3 7]
