@@ -1,7 +1,7 @@
 # Random-Matrix-Coin-Toss-Simulation
 <p> This Python script simulates a matrix-based probability experiment. It generates random matrices, classifies elements based on divisibility by 3, and calculates the probability of these classifications over multiple iterations.</p>
 <br> 
-# Summary
+
 
 ## What the Code Does
 
@@ -53,5 +53,5 @@ Probability of getting tail = 0.4444444444444444
 Overall Probability of getting H (all events combined) = 0.4888888888888889
 Overall Probability of getting T (all events combined) = 0.5111111111111111
 
-#Contributions are welcome! Please feel free to submit a Pull Request.
+<b>Contributions are welcome! Please feel free to submit a Pull Request.</b> 
 
